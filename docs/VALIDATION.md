@@ -28,4 +28,4 @@ Record only after:
 6. The contract rejects the unauthorized issuance simulation.
 7. The GitHub files can be opened and explained.
 
-If only part of the workflow works, the interim assignment permits in-progress work. Record the working part, explicitly identify the rest, and adjust the presentation script to match what was actually observed.
+If only part of the workflow works, document its current limitations. Record the working part, explicitly identify the rest, and adjust the presentation script to match what was actually observed.

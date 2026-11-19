@@ -1,4 +1,4 @@
-# Five-minute interim recording plan
+# CredChain demonstration plan
 
 Project title: **CredChain: A Decentralized Academic Credential Verification System**.
 
@@ -35,7 +35,7 @@ The optional unauthorized-call simulation can replace part of the tamper segment
 
 “Hi everyone. Our project is CredChain: A Decentralized Academic Credential Verification System. It allows a university to issue a signed academic credential, a student to share it, and an employer to verify it against a blockchain record.
 
-For this interim version, we have implemented the Solidity registry, local Ethereum connection, issuance, document sharing, verification, and revocation. Real stakeholder authentication, external wallet integration, and broader deployment remain in progress.”
+In this version, we have implemented the Solidity registry, local Ethereum connection, issuance, document sharing, verification, and revocation. Real stakeholder authentication, external wallet integration, and broader deployment remain in progress.”
 
 **Screen action:** Show the chain ID/address banner. Use these completed-work claims only after confirming them on your machine.
 
